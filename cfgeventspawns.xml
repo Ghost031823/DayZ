@@ -1482,6 +1482,32 @@
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
 
+
+    <event name="CustomHighTierLootZone">
+        <pos x="4685.125" z="9612.440" a="-1" />
+    </event>
+    <event name="CustomOverrunNWAF">
+        <pos x="4660.412" z="9589.802" a="0" />
+        <pos x="4825.337" z="9485.665" a="0" />
+        <pos x="4555.184" z="9704.223" a="0" />
+    </event>
+    <event name="CustomOverrunZeleno">
+        <pos x="2740.751" z="5270.993" a="0" />
+        <pos x="2894.310" z="5344.076" a="0" />
+        <pos x="2596.532" z="5096.382" a="0" />
+    </event>
+    <event name="CustomOverrunBerezino">
+        <pos x="12172.954" z="9427.236" a="0" />
+        <pos x="12358.203" z="9614.418" a="0" />
+        <pos x="11995.688" z="9769.541" a="0" />
+    </event>
+    <event name="CustomRadMilitaryOverrun">
+        <pos x="1745.228" z="14186.920" a="0" />
+        <pos x="1868.670" z="14274.515" a="0" />
+        <pos x="1627.413" z="14095.337" a="0" />
+    </event>
+
+    <event name="CustomRoamingHorde" />
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
